@@ -1,3 +1,0 @@
-https://tex.stackexchange.com/questions/12672/which-tabular-packages-do-which-tasks-and-which-packages-conflict
-
-Latex tables overview
